@@ -6,6 +6,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #a0a0f5;
 }
 
 article,
@@ -22,8 +23,6 @@ h1 {
   margin: 0.67em 0;
 }
 
-figcaption,
-figure,
 main {
   display: block;
 }
@@ -256,12 +255,11 @@ html {
 }
 
 html {
-  background-color: #f8f8ff;
+  background-color: #a0a0f5;
 }
 
 #root {
   display: flex;
-  flex-direction: column;
   justify-content: space-between;
   min-height: 100vh;
   min-height: 100svh;
