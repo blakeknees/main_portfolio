@@ -11,6 +11,7 @@ function App() {
   return (
     <>
       <div className="container">
+
         <header>
           <Header />
         </header>  
@@ -22,6 +23,7 @@ function App() {
         <footer>
           <Footer />
         </footer>
+
       </div>
       
     </>
