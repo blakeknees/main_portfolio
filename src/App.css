@@ -278,14 +278,6 @@ html {
   top: 8rem;
 }
 
-ul {
-  list-style-type: none;
-}
-
-li {
-  padding: 0.5rem 0;
-}
-
 .nav {
   background: rgba(249, 170, 185, 0.3);
   width: 100%;
@@ -295,14 +287,17 @@ li {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 10px;
 }
-
-.li {
+.menu li {
   display: block;
+  padding: 10px 15px;
+}
+.menu li:hover {
+  text-decoration: underline;
 }
 
 .footer {
@@ -317,4 +312,11 @@ li {
 
 .main {
   padding: 40px;
+}
+.main h1 {
+  margin-bottom: 0;
+}
+.main .descriptors {
+  font-style: italic;
+  margin-top: 5px;
 }/*# sourceMappingURL=App.css.map */
