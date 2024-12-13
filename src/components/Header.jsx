@@ -4,7 +4,7 @@ const Header = ({}) => {
     return (
         <nav className="nav">
             <ul className="menu">
-                <li>Dev</li>
+                <li><a href="https://jenniferblakney.dev">Dev</a></li>
                 <li>Writing</li>
                 <li>Media</li>
             </ul>
