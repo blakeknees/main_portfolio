@@ -12,17 +12,17 @@ function App() {
     <>
       <div className="container">
 
-        <header>
+        
           <Header />
-        </header>  
+         
 
-        <main>
+        
           <Main />
-        </main>
+        
 
-        <footer>
+        
           <Footer />
-        </footer>
+        
 
       </div>
       
