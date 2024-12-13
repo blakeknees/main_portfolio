@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Routes, Route } from 'react-router-dom';
 import './App.css';
 import Header from './components/Header';
 import Main from './components/Main';
@@ -11,19 +12,9 @@ function App() {
   return (
     <>
       <div className="container">
-
-        
           <Header />
-         
-
-        
           <Main />
-        
-
-        
           <Footer />
-        
-
       </div>
       
     </>
