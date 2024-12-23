@@ -3,36 +3,32 @@
 html {
     line-height: 1.15;
     -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%
+    -webkit-text-size-adjust: 100%;
+    height: 100%;
 }
 
 body {
-    margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen','Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     max-width: 1901px;
     font-size: 100%;
-    
     display: block;
     position: absolute;
     width: 100%;
     height: 100%;
+    background-size: cover;
     background: url('../../src/assets/cannabis-background.jpg');
     opacity: 0.8;
     box-shadow: inset 0 0 0 1000px #8b8baed9;
     top: 0;
     left: 0;
     z-index: 1;
-
     color: #000;
 }
 
 article,
 aside,
-footer,
-header,
-nav,
 section {
     display: block
 }
