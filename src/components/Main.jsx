@@ -12,6 +12,10 @@ const Main = ({}) => {
 
           <div>
             <p>
+              An educator at heart, writer and developer by trade. Oh, and I LOVE cannabis.
+            </p>
+            
+            <p>
               I have been involved in the cannabis industry and community since 2016. Using my Le Cordon Bleu pastry knowledge I began my self-education journey by making edibles for myself and friends. With lots of encouragement I submitted my best product, infused macarons, to The Karma Cup competition, where I won 2nd place.
             </p>
 
