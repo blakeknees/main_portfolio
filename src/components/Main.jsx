@@ -5,18 +5,18 @@ const Main = ({}) => {
           <h1>Jennifer Blakney</h1>
         
           <p className="descriptors">
-            Web Developer. Cannabis Content Creator. Former Pastry Chef.
+            Cannabis Content Creator & Web Developer
           </p>
 
           <img src="https://placebear.com/200/300" alt="" className="selfie"/>
 
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid architecto recusandae doloribus veniam eius fugit, nostrum voluptatibus tempora exercitationem repellat esse accusantium a modi corporis, id, ullam fuga vitae temporibus?
+              I have been involved in the cannabis industry and community since 2016. Using my Le Cordon Bleu pastry knowledge I began my self-education journey by making edibles for myself and friends. With lots of encouragement I submitted my best product, infused macarons, to The Karma Cup competition, where I won 2nd place.
             </p>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid architecto recusandae doloribus veniam eius fugit, nostrum voluptatibus tempora exercitationem repellat esse accusantium a modi corporis, id, ullam fuga vitae temporibus?
+              In 2017 I began working in medical cannabis clinics, helping patients get access and educating them on products.I took that love of education and soon began writing for various publications, including the OCS and Cannabis Retailer Magazine.
             </p>
 
             <p>
