@@ -5,7 +5,7 @@ const Header = ({}) => {
         <nav className="nav">
             <ul className="menu">
                 <li>About</li>
-                <li>Writing</li>
+                <li>Work</li>
                 <li>Media</li>
                 <li><a href="https://jenniferblakney.dev">Dev</a></li>
             </ul>

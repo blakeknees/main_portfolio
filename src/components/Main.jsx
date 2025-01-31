@@ -5,7 +5,7 @@ const Main = ({}) => {
           <h1>Jennifer Blakney</h1>
         
           <p className="descriptors">
-            Cannabis Content Creator & Web Developer
+            Cannabis Writer & Content Creator
           </p>
 
           <img src="https://placebear.com/200/300" alt="" className="selfie"/>
