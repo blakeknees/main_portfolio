@@ -16,15 +16,15 @@ const Main = ({}) => {
             </p>
 
             <p>
-              From 2017-2020 I worked in medical cannabis clinics, helping patients obtain prescriptions and educating them on products. My expansive knowledge and writing experience gained me opportunities publishing articles for many cannabis publications and companies, including the OCS and Cannabis Retailer Magazine.
+              From 2017-2020 I worked in medical cannabis clinics, helping patients obtain prescriptions and educating them on products. Using what I learned in clinics, I turned to my experience as a writer to publish articles and email marketing for many cannabis publications and companies, including the OCS, Cannabis Retailer Magazine, Tremblant and Emblem.
             </p>
 
             <p>
-              
+             Recently I have moved away from working in cannabis full-time, but I still love creating content about it on the internet. Specifically breaking the stigma that you can't be productive and use cannabis (follow me on Instagram to learn more).
             </p>
 
             <p>
-              If you'd like to chat, you can email me at <a href="mailto:jenniferblakney@gmail.com">jenniferblakney@gmail.com</a>
+              If you'd like to chat about the industry or collaborate, you can email me at <a href="mailto:jenniferblakney@gmail.com">jenniferblakney@gmail.com</a>
             </p>
           </div>
 
