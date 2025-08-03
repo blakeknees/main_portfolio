@@ -6,7 +6,7 @@ function Home() {
             Cannabis Writer & Content Creator
           </p>
 
-          <img src="https://placebear.com/200/300" alt="" className="selfie"/>
+          <img src="" alt="" className="selfie"/>
 
           <div>
             <p>

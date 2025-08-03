@@ -1,5 +1,13 @@
 function Media() {
-  return <h1>Welcome to the Home Page</h1>;
+  return (<div className="main">
+          <h1>Media I have been featured in</h1>
+          <div>
+            <p>
+             A selection of articles and videos that mention me.
+            </p>
+          </div>
+
+        </div>)
 }
 
 export default Media;

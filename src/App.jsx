@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Main from './components/Main';
 import Footer from './components/Footer';
 import $cannabis from './assets/cannabis-background.jpg';
+import $headshot from './assets/writer-headshot.jpg';
 
 import Home from './pages/Home';
 import About from './pages/About';
