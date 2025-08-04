@@ -5,6 +5,10 @@ function Media() {
             <p>
              A selection of articles and videos that mention me.
             </p>
+
+            <h2>Articles</h2>
+            
+            <h2>Videos</h2>
           </div>
 
         </div>)
