@@ -1,8 +1,10 @@
+
+
 function About() {
   return (<div className="main">
           <h1>Welcome to my lore...</h1>
 
-          <img src="https://placebear.com/200/300" alt="" className="aboutPic"/>
+          <img src={headshot} alt="headshot" className="aboutPic"/>
 
           <div>
             <p>
@@ -25,6 +27,9 @@ function About() {
           </div>
 
         </div>)
+
+        console.log(headshot);
 }
 
 export default About;
+

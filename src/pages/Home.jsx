@@ -1,3 +1,5 @@
+import headshot from '../assets/writer-headshot.jpg';
+
 function Home() {
   return (<div className="main">
           <h1>Jennifer Blakney</h1>
@@ -6,7 +8,7 @@ function Home() {
             Cannabis Writer & Content Creator
           </p>
 
-          <img src="" alt="" className="selfie"/>
+          <img src={headshot} alt="headshot" className="aboutPic"/>
 
           <div>
             <p>
