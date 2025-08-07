@@ -1,4 +1,4 @@
-
+import headshot from '../assets/writer-headshot.jpg';
 
 function About() {
   return (<div className="main">
@@ -27,8 +27,6 @@ function About() {
           </div>
 
         </div>)
-
-        console.log(headshot);
 }
 
 export default About;
