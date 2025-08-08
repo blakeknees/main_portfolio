@@ -8,7 +8,7 @@ function About() {
 
           <div>
             <p>
-              I have been involved in the cannabis industry and community since 2016. Using my Le Cordon Bleu pastry knowledge, I began my self-education journey by making edibles for myself and friends. With lots of encouragement I submitted my best product, an infused lemon macaron, to The sKarma Cup competition. I won 2nd place.
+              I have been involved in the cannabis industry and community since 2016. Using my Le Cordon Bleu pastry knowledge, I began my self-education journey by making edibles for myself and friends. With lots of encouragement I submitted my best product, an infused lemon macaron, to The Karma Cup competition. I won 2nd place.
             </p>
 
             <p>
